@@ -1,0 +1,13 @@
+{
+  "name": "Kantin Basreng",
+  "short_name": "Basreng",
+  "description": "Pesan basreng favoritmu.",
+  "start_url": ".",
+  "scope": "./",
+  "display": "standalone",
+  "background_color": "#fff8ef",
+  "theme_color": "#f36b21",
+  "icons": [
+    {"src":"icon.svg","sizes":"any","type":"image/svg+xml","purpose":"any maskable"}
+  ]
+}
